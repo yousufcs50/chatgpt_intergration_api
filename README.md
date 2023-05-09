@@ -1,11 +1,11 @@
 # chatgpt_intergration_api
 
-#Prerequisites
+**Prerequisites**
 
-Python 3.x (preferably the latest version)
-pip (Python package installer)
+1.Python 3.x (preferably the latest version)  
+2.pip (Python package installer)
 
-#Steps
+**Steps**
 
 Download and install Python from the official website: https://www.python.org/downloads/. Choose the version that corresponds to your operating system, download it, and follow the instructions to install it.
 
